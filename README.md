@@ -220,5 +220,6 @@ npx expo install expo-image-picker
 
 npx expo install react-native-paper
 
-npx expo install @expo/vector-icons
+npx expo install @expo/vector-icon
+
 ```
